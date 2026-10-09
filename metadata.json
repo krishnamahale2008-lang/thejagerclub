@@ -1,0 +1,6 @@
+{
+  "name": "THE JAGER CLUB – Desi Club Night Diwali Edition",
+  "description": "Official event website for THE JAGER CLUB's Desi Club Night — Diwali Edition. Your Diwali. Your Rules. Passes registration, event details, and nightlife experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
